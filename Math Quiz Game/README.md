@@ -36,4 +36,4 @@ When you run the game:
 ### ▶️ Run the Game
 
 ```bash
-python MatGame.py
+python MathGame.py
